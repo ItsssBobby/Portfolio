@@ -101,6 +101,7 @@ a:hover::before {
 
 .contents-work img {
     max-width: 400px;
+    min-height: 400px;
     padding: 5px;
 }
 
